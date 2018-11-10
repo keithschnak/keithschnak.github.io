@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keith Schnakenberg on Keith Schnakenberg</title>
+    <link>http://keith-schnakenberg.com/</link>
+    <description>Recent content in Keith Schnakenberg on Keith Schnakenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Keith Schnakenberg</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Accountability in Gubernatorial Elections: Theory and Estimation</title>
+      <link>http://keith-schnakenberg.com/project/structural-elections/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/structural-elections/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;My ongoing project focuses on methods for identifying and estimating the parameters of a game of infinitely repeated elections with adverse selection and moral hazard. In the game, candidates from two parties compete for office in each time period over an infinite horizon. Candidates have heterogeneous costs for expending effort to produce good outcomes in office. The voters cannot perfectly observe candidate types or effort and instead observe a noisy outcome that is correlated with effort. The model improves on existing work by: (1) allowing the distribution of voters to evolve according to a Markov process in order to capture differences across states and time (existing work pools voter preferences over all years and locations), (2) incorporating state-level covariates and candidate-specific attributes, (3) proving a semiparametric identification result showing what attributes of the data generating process drive identification of the model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Candidate Traits in Elections: When Good News for Selection is Bad News for Accountability</title>
+      <link>http://keith-schnakenberg.com/project/traits/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/traits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electoral and policy effects of campaign finance contributions</title>
+      <link>http://keith-schnakenberg.com/project/cf-signal/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/cf-signal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signaling with reform: How the threat of corruption prevents informed policymaking</title>
+      <link>http://keith-schnakenberg.com/project/signaling-reform/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/signaling-reform/</guid>
+      <description>
+
+&lt;p&gt;(with &lt;a href=&#34;www.ianrturner.com&#34; target=&#34;_blank&#34;&gt;Ian Turner&lt;/a&gt; )&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ssrn.com/abstract=2842326&#34; target=&#34;_blank&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://keith-schnakenberg.com/pdf/SchnakenbergTurner-corruption.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The downsides of information transmission and voting</title>
+      <link>http://keith-schnakenberg.com/publication/downsides/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/downsides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allies or commitment devices? A model of appointments to the Federal Reserve</title>
+      <link>http://keith-schnakenberg.com/publication/fed/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/fed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informational lobbying and legislative voting</title>
+      <link>http://keith-schnakenberg.com/publication/infolobby/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/infolobby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directional cheap talk in electoral campaigns</title>
+      <link>http://keith-schnakenberg.com/publication/directional/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/directional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expert advice to a voting body</title>
+      <link>http://keith-schnakenberg.com/publication/expert/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/expert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scoring from Contests</title>
+      <link>http://keith-schnakenberg.com/publication/pascore/</link>
+      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/pascore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group identity and symbolic political behavior</title>
+      <link>http://keith-schnakenberg.com/publication/identity/</link>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Mutual Dependence between State Repressive Actions</title>
+      <link>http://keith-schnakenberg.com/publication/hr-network/</link>
+      <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/hr-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Patterns of Human Rights Practices</title>
+      <link>http://keith-schnakenberg.com/publication/hr-irt/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/hr-irt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Two Cultures? Latino and Asian Language Assimilation along the U.S.-Mexico Border</title>
+      <link>http://keith-schnakenberg.com/publication/language/</link>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is immigration a racial issue? Anglo attitudes on immigration policies in a border county.</title>
+      <link>http://keith-schnakenberg.com/publication/immigration-race/</link>
+      <pubDate>Tue, 14 Jul 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/immigration-race/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

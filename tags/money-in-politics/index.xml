@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Money in Politics on Keith Schnakenberg</title>
+    <link>http://keith-schnakenberg.com/tags/money-in-politics/</link>
+    <description>Recent content in Money in Politics on Keith Schnakenberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Keith Schnakenberg</copyright>
+    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://keith-schnakenberg.com/tags/money-in-politics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electoral and policy effects of campaign finance contributions</title>
+      <link>http://keith-schnakenberg.com/project/cf-signal/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/cf-signal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signaling with reform: How the threat of corruption prevents informed policymaking</title>
+      <link>http://keith-schnakenberg.com/project/signaling-reform/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/signaling-reform/</guid>
+      <description>(with Ian Turner )
+Abstract Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information.</description>
+    </item>
+    
+  </channel>
+</rss>
