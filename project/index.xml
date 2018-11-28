@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Keith Schnakenberg</copyright>
     <lastBuildDate>Sun, 11 Mar 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://keith-schnakenberg.com/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Accountability in Gubernatorial Elections: Theory and Estimation</title>
@@ -18,7 +16,12 @@
       <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>http://keith-schnakenberg.com/project/structural-elections/</guid>
-      <description>Abstract My ongoing project focuses on methods for identifying and estimating the parameters of a game of infinitely repeated elections with adverse selection and moral hazard. In the game, candidates from two parties compete for office in each time period over an infinite horizon. Candidates have heterogeneous costs for expending effort to produce good outcomes in office. The voters cannot perfectly observe candidate types or effort and instead observe a noisy outcome that is correlated with effort.</description>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;My ongoing project focuses on methods for identifying and estimating the parameters of a game of infinitely repeated elections with adverse selection and moral hazard. In the game, candidates from two parties compete for office in each time period over an infinite horizon. Candidates have heterogeneous costs for expending effort to produce good outcomes in office. The voters cannot perfectly observe candidate types or effort and instead observe a noisy outcome that is correlated with effort. The model improves on existing work by: (1) allowing the distribution of voters to evolve according to a Markov process in order to capture differences across states and time (existing work pools voter preferences over all years and locations), (2) incorporating state-level covariates and candidate-specific attributes, (3) proving a semiparametric identification result showing what attributes of the data generating process drive identification of the model.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -45,8 +48,20 @@
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>http://keith-schnakenberg.com/project/signaling-reform/</guid>
-      <description>(with Ian Turner )
-Abstract Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information.</description>
+      <description>
+
+&lt;p&gt;(with &lt;a href=&#34;www.ianrturner.com&#34; target=&#34;_blank&#34;&gt;Ian Turner&lt;/a&gt; )&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Lobbying is a potential source of corruption but is also a valuable source of information for policymakers. We analyze a game-theoretic model that shows how the threat of corruption affects the incentives of non-corrupt politicians to enlist the help of lobbyists to make more informed decisions. Politicians face a dilemma because voters cannot always tell whether a politician allows access to lobbyists in order to solicit corruption or to seek information. Thus, a non-corrupt politician may deny access to lobbyists to signal that she is non-corrupt even though doing so impedes her ability to make good policy. This signaling may decrease the welfare of the voters depending on the value of the lost policy information relative to the value of screening out corrupt politicians.&lt;/p&gt;
+
+&lt;h1 id=&#34;links&#34;&gt;Links&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ssrn.com/abstract=2842326&#34; target=&#34;_blank&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://keith-schnakenberg.com/pdf/SchnakenbergTurner-corruption.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
