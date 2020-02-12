@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Keith Schnakenberg</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://keith-schnakenberg.com/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flexibility in the Design of International Climate Agreements</title>
+      <link>http://keith-schnakenberg.com/project/climate/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/climate/</guid>
+      <description>Abstract #My ongoing project focuses on methods for identifying and estimating the parameters of a game of infinitely repeated elections with adverse selection and moral hazard. In the game, candidates from two parties compete for office in each time period over an infinite horizon. Candidates have heterogeneous costs for expending effort to produce good outcomes in office. The voters cannot perfectly observe candidate types or effort and instead observe a noisy outcome that is correlated with effort.</description>
+    </item>
     
     <item>
       <title>Motivated Reasoning and Political Accountability</title>

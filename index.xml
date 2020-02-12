@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Flexibility in the Design of International Climate Agreements</title>
+      <link>http://keith-schnakenberg.com/project/climate/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/climate/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;#My ongoing project focuses on methods for identifying and estimating the parameters of a game of infinitely repeated elections with adverse selection and moral hazard. In the game, candidates from two parties compete for office in each time period over an infinite horizon. Candidates have heterogeneous costs for expending effort to produce good outcomes in office. The voters cannot perfectly observe candidate types or effort and instead observe a noisy outcome that is correlated with effort. The model improves on existing work by: (1) allowing the distribution of voters to evolve according to a Markov process in order to capture differences across states and time (existing work pools voter preferences over all years and locations), (2) incorporating state-level covariates and candidate-specific attributes, (3) proving a semiparametric identification result showing what attributes of the data generating process drive identification of the model.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Motivated Reasoning and Political Accountability</title>
       <link>http://keith-schnakenberg.com/project/motivated-reasoning/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
@@ -138,15 +152,6 @@
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://keith-schnakenberg.com/publication/hr-irt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Two Cultures? Latino and Asian Language Assimilation along the U.S.-Mexico Border</title>
-      <link>http://keith-schnakenberg.com/publication/language/</link>
-      <pubDate>Mon, 31 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://keith-schnakenberg.com/publication/language/</guid>
       <description></description>
     </item>
     
