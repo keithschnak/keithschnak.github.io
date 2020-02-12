@@ -85,6 +85,6 @@ a:hover {
 
 .portrait {
 border-radius: initial !important;
-height: 100% !important;
-width: 100% !important;
+height: initial !important;
+width: initial !important;
 }
