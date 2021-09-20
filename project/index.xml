@@ -7,27 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Keith Schnakenberg</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://keith-schnakenberg.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Flexibility in the Design of International Climate Agreements</title>
-      <link>http://keith-schnakenberg.com/project/climate/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Dark Money and Influence on Politicians</title>
+      <link>http://keith-schnakenberg.com/project/darkmoneypol/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://keith-schnakenberg.com/project/climate/</guid>
-      <description></description>
+      <guid>http://keith-schnakenberg.com/project/darkmoneypol/</guid>
+      <description> Abstract </description>
     </item>
     
     <item>
-      <title>Motivated Reasoning and Political Accountability</title>
-      <link>http://keith-schnakenberg.com/project/motivated-reasoning/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Dark Money and Voter Influence</title>
+      <link>http://keith-schnakenberg.com/project/darkmoneyvoter/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://keith-schnakenberg.com/project/motivated-reasoning/</guid>
-      <description></description>
+      <guid>http://keith-schnakenberg.com/project/darkmoneyvoter/</guid>
+      <description> Abstract </description>
+    </item>
+    
+    <item>
+      <title>Incumbency and Accountability in Gubernatorial Elections</title>
+      <link>http://keith-schnakenberg.com/project/emotions/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/emotions/</guid>
+      <description> Abstract </description>
     </item>
     
     <item>

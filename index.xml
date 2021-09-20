@@ -11,20 +11,56 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Flexibility in the Design of International Climate Agreements</title>
-      <link>http://keith-schnakenberg.com/project/climate/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Dark Money and Influence on Politicians</title>
+      <link>http://keith-schnakenberg.com/project/darkmoneypol/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://keith-schnakenberg.com/project/climate/</guid>
+      <guid>http://keith-schnakenberg.com/project/darkmoneypol/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dark Money and Voter Influence</title>
+      <link>http://keith-schnakenberg.com/project/darkmoneyvoter/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/darkmoneyvoter/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designing the Optimal International Climate Agreement with Variability in Commitments</title>
+      <link>http://keith-schnakenberg.com/publication/climate/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/climate/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Motivated Reasoning and Political Accountability</title>
-      <link>http://keith-schnakenberg.com/project/motivated-reasoning/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Incumbency and Accountability in Gubernatorial Elections</title>
+      <link>http://keith-schnakenberg.com/project/emotions/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://keith-schnakenberg.com/project/motivated-reasoning/</guid>
+      <guid>http://keith-schnakenberg.com/project/emotions/</guid>
+      <description>
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motivated reasoning and democratic accountability</title>
+      <link>http://keith-schnakenberg.com/publication/mr/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/publication/mr/</guid>
       <description></description>
     </item>
     
@@ -118,33 +154,6 @@
       <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>http://keith-schnakenberg.com/publication/pascore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Group identity and symbolic political behavior</title>
-      <link>http://keith-schnakenberg.com/publication/identity/</link>
-      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://keith-schnakenberg.com/publication/identity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Measuring Mutual Dependence between State Repressive Actions</title>
-      <link>http://keith-schnakenberg.com/publication/hr-network/</link>
-      <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://keith-schnakenberg.com/publication/hr-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Patterns of Human Rights Practices</title>
-      <link>http://keith-schnakenberg.com/publication/hr-irt/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://keith-schnakenberg.com/publication/hr-irt/</guid>
       <description></description>
     </item>
     
