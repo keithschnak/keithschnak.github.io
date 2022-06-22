@@ -19,6 +19,8 @@
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;In a recent issue of Global Environmental Politics, Aklin and Mildenberger (2020) argue against the prevailing characterization of climate change cooperation as a problem of free riding or collective action. The authors argue that models of collective action imply (1) policy reciprocity and (2) inaction in the absence of formal agreements to limit free riding. They argue that neither empirical implication is supported by an review of states&amp;rsquo; climate policy to date. In this comment we note that standard collective action models imply neither of the above hypotheses. As a result the empirical tests advanced in the original article are uninformative as to the explanatory power of the collective action model for international climate politics.&lt;/p&gt;
 </description>
     </item>
     
@@ -30,12 +32,16 @@
       <guid>http://keith-schnakenberg.com/project/emotions/</guid>
       <description>
 
+&lt;p&gt;external_link=&amp;ldquo;&lt;a href=&#34;https://osf.io/preprints/socarxiv/zmv85/&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://osf.io/preprints/socarxiv/zmv85/&amp;quot;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Emotions shape strategic conflict dynamics. However, political science lacks theories integrating strategic and emotional concerns. We propose a model of intergroup conflict under incomplete information in which agents are sensitive to psychological motivations in the form of anger. In the model, agents become angry when they experience worse-than-expected outcomes and blame those bad outcomes on the intentional actions of another player. Friendly players who experience bad outcomes may act aggressively out of anger or because the outcomes contain information about the preferences of the other group. Increasing one group&amp;rsquo;s sensitivity to anger may cause that group to act more aggressively. However, this also reduces the informational effect of that group&amp;rsquo;s actions, which may make the other group less aggressive. Thus, anger has competing effects on the likelihood of conflict. The results have important implications for understanding the interplay between psychological and material aims in both fomenting and ameliorating conflict.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Dark Money and Influence on Politicians</title>
+      <title>Dark Money and Politician Learning</title>
       <link>http://keith-schnakenberg.com/project/darkmoneypol/</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -43,11 +49,13 @@
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;We study the consequences of campaign finance disclosure laws in a model of informative campaign finance. Contributions can affect electoral outcomes and also signal policy information to politicians. Under transparent contributions the equilibrium is one in which donors may make contributions that run counter to their electoral interests in order to signal good news regarding their preferred policy. We compare donor welfare when contributions reveal information across different campaign finance transparency regimes. When non-transparent contributions are allowed, the electoral price of influence increases to account for the possibility that donors use public contributions to signal but secretly offset the electoral costs with dark money. Our main results illustrate how donors may sometimes benefit from regulations requiring full disclosure when contributions signal information. This is most likely when the reputational cost of giving to the donor&amp;rsquo;s preferred candidate is not too large.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Dark Money and Voter Influence</title>
+      <title>Dark Money and Voter Learning</title>
       <link>http://keith-schnakenberg.com/project/darkmoneyvoter/</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       
@@ -55,6 +63,8 @@
       <description>
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;We provide a model of dark money in elections. A donor with extreme preferences relative to the voter is privately informed about the policy preferences and valence of a politician. Advertisements reveal information about valence and the voter can learn either through donor-funded advertisements or from neutral sources. Under transparency the voter always knows the source of a message. When the message is donor funded the voter concludes that the candidate is more likely to be extreme since the donor contributed money to that candidate. Dark money allows the donor to transmit messages to the voter without revealing the source, leaving the voter uncertain about whether the signal came from the donor or from the neutral source. Thus, dark money is an attempt to persuade the voter by concealing the motivations behind advertising. However, this can also disadvantage the donor since the voter is less persuadable by all other signals.&lt;/p&gt;
 </description>
     </item>
     
@@ -65,6 +75,22 @@
       
       <guid>http://keith-schnakenberg.com/publication/climate/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Informative Campaigns, Overpromising, and Policy Bargaining</title>
+      <link>http://keith-schnakenberg.com/project/overpromise/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://keith-schnakenberg.com/project/overpromise/</guid>
+      <description>
+
+&lt;p&gt;external_link=&amp;ldquo;&lt;a href=&#34;https://osf.io/preprints/socarxiv/asqk6/&amp;quot;&#34; target=&#34;_blank&#34;&gt;https://osf.io/preprints/socarxiv/asqk6/&amp;quot;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;What is the relationship between policy positions taken in campaigns when the final policy outcome depends on other political actors? Why do candidates sometimes advocate policies in their campaigns that are unlikely or impossible to pass given the preferences of other actors in the government?  We analyze a model in which candidates make non-binding policy platform announcements and then bargain with a veto player over the final policy if they take office. A candidate has private information about the distribution of voter preferences over some policy and engages in bargaining with a veto player who is responsive to voter preferences. Elections produce incentives for revelation of private information even when campaign messages are cheap talk. When voters may take campaign promises literally, elections are more likely to allow information revelation. Furthermore, in this case, politicians overpromise: the politician&amp;rsquo;s platform is outside of the range of feasible bargaining outcomes.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -145,15 +171,6 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>http://keith-schnakenberg.com/publication/expert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scoring from Contests</title>
-      <link>http://keith-schnakenberg.com/publication/pascore/</link>
-      <pubDate>Sun, 21 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://keith-schnakenberg.com/publication/pascore/</guid>
       <description></description>
     </item>
     
