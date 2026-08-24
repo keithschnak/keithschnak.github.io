@@ -15,6 +15,13 @@ by GitHub Pages until you move it.
 ## Editing
 
 Everything visual lives in the `:root` block at the top of `style.css`.
+
+The layout has one breakpoint that matters, at the bottom of the file: above
+1024px the masthead becomes a sticky left sidebar and the content sits beside
+it; below that everything stacks into one column. The reading column stays
+38rem wide either way — that is about 66 characters per line, which is the
+point of the whole layout. Widening it is the one change that would make the
+pages harder to read.
 The palette is WashU's: `--brand` is WashU Red (#BA0C2F, used only for the
 3px rule at the top of the page), `--accent` is WashU Dark Red (#971B2F,
 used for links and section headings), `--secondary` is a muted WashU teal
