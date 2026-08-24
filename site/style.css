@@ -1,0 +1,275 @@
+:root {
+  color-scheme: light dark;
+
+  --bg:        light-dark(oklch(0.99 0.002 30), oklch(0.19 0.008 30));
+  --surface:   light-dark(oklch(0.97 0.004 30), oklch(0.23 0.010 30));
+  --border:    light-dark(oklch(0.90 0.006 30), oklch(0.32 0.012 30));
+  --muted:     light-dark(oklch(0.52 0.012 30), oklch(0.70 0.012 30));
+  --text:      light-dark(oklch(0.25 0.010 30), oklch(0.92 0.006 30));
+
+  /* WashU dark red (#971B2F) — links, section headings, focus ring */
+  --accent:    light-dark(oklch(0.443 0.158 19), oklch(0.72 0.110 22));
+  /* WashU red (#BA0C2F) — the rule at the top of the page, nothing else */
+  --brand:     light-dark(oklch(0.502 0.197 21), oklch(0.58 0.190 21));
+  /* WashU teal, muted — publication status only */
+  --secondary: light-dark(oklch(0.44 0.075 205), oklch(0.74 0.065 205));
+
+  --serif: Literata, Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  --sans:  "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--serif);
+  font-size: 20px;
+  line-height: 1.6;
+  font-optical-sizing: auto;
+  text-wrap: pretty;
+}
+
+/* the one full-bleed piece of colour on the page */
+body::before {
+  content: "";
+  display: block;
+  height: 3px;
+  background: var(--brand);
+}
+
+.page {
+  max-width: 38rem;
+  margin-inline: auto;
+  padding: 3.25rem 1.4rem 5rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+a:hover { color: oklch(from var(--accent) calc(l - 0.08) c h); }
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ---------- masthead ---------- */
+
+h1 {
+  font-family: var(--serif);
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.12;
+  letter-spacing: -0.012em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.role {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: var(--muted);
+  margin: 0.55rem 0 0;
+}
+
+nav {
+  font-family: var(--sans);
+  font-size: 0.92rem;
+  margin: 1.6rem 0 0;
+  padding: 0.85rem 0 0;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1.4rem;
+}
+
+/* ---------- sections ---------- */
+
+section { margin-top: 3.1rem; }
+
+h2 {
+  font-family: var(--sans);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+p { margin: 0 0 1.15rem; }
+p:last-child { margin-bottom: 0; }
+
+/* ---------- publication entries ---------- */
+
+.entry { margin-bottom: 1.65rem; }
+.entry:last-child { margin-bottom: 0; }
+
+.entry .title {
+  font-size: 1.02rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0;
+}
+
+.entry .meta {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: var(--muted);
+  margin: 0.2rem 0 0;
+}
+.entry .meta em { font-style: italic; }
+
+.links {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin: 0.3rem 0 0;
+}
+.links a { text-decoration: none; }
+.links a:hover { text-decoration: underline; }
+.links span { padding: 0 0.15rem; }
+
+/* the second colour, with exactly one job: publication status */
+.tag {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  background: color-mix(in oklch, var(--secondary) 13%, var(--bg));
+  border-radius: 2px;
+  padding: 0.1rem 0.4rem 0.13rem;
+  vertical-align: 0.16em;
+  margin-left: 0.35rem;
+  white-space: nowrap;
+}
+
+.more {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  margin-top: 1.9rem;
+}
+
+/* ---------- teaching ---------- */
+
+ul.courses {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+ul.courses li {
+  padding: 0.32rem 0;
+  line-height: 1.45;
+}
+ul.courses .level {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-left: 0.4rem;
+}
+
+.sub {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin: 1.6rem 0 0.5rem;
+}
+
+/* ---------- footer ---------- */
+
+footer {
+  margin-top: 3.6rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--border);
+  font-family: var(--sans);
+  font-size: 0.87rem;
+  line-height: 1.65;
+  color: var(--muted);
+}
+footer a { text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+
+
+@media (max-width: 34rem) {
+  body { font-size: 18px; line-height: 1.45; }
+  .page { padding-top: 2.4rem; }
+  h1 { font-size: 1.75rem; }
+}
+
+nav a { text-decoration: none; }
+nav a:hover { text-decoration: underline; }
+
+/* ---------- abstracts (optional; add <details> blocks to use) ---------- */
+
+details {
+  margin-top: 0.35rem;
+  font-size: 0.94rem;
+}
+details summary {
+  font-family: var(--sans);
+  font-size: 0.82rem;
+  color: var(--accent);
+  cursor: pointer;
+  width: fit-content;
+  list-style: none;
+}
+details summary::-webkit-details-marker { display: none; }
+details summary::before { content: "+ "; }
+details[open] summary::before { content: "\2212 "; }
+details summary:hover { text-decoration: underline; }
+details .abstract {
+  margin: 0.5rem 0 0;
+  padding-left: 0.9rem;
+  border-left: 2px solid var(--border);
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+/* ---------- volleyball ---------- */
+
+.trophies {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr));
+  gap: 0.9rem;
+  align-items: start;
+  margin-top: 1.6rem;
+}
+.trophies figure { margin: 0; }
+.trophies img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+}
+.trophies .placeholder {
+  aspect-ratio: 3 / 4;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  display: grid;
+  place-items: center;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
